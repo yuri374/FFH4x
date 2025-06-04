@@ -1,0 +1,11 @@
+{
+    "ABC123": {
+        "used": false
+    },
+    "DEF456": {
+        "used": false
+    },
+    "VIP789": {
+        "used": false
+    }
+}
